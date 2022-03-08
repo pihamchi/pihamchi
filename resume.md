@@ -26,6 +26,7 @@ Achievement
 - discovered that there were unnecessary api calls due to incorrect use of react hook. After fixing, unnecessary re-rendering of extraneous components is gone. I like to find and delete these pointless behaviors to improve performance.
 - Using redis cash to manually flush the cash, automated it to have a cycle of 1 minute or 1 day.
 - The above operation was implemented as a method so that it can be called.
+- developed an exhibition that can be viewed on mobile.
 \
 &nbsp;
 # PERSONAL PROJECTS
