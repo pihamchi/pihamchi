@@ -16,6 +16,8 @@ JavaScript, ES6/ES2015, ReactJS, Redux, RESTful API, JSP
 Express.js, RubyOnRails, ElasticSearch, Springboot, CouchDB, PostsgreSQL, Redis
 - DevOps\
 Git, Amazon EC2, Docker, Jenkins 
+- ETC\
+Confluence, 
 \
 &nbsp;
 # WORK EXPERIENCE
