@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @pihamchi
 - 👀 I’m interested in js field.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on js
+- 🌱 I’m currently working in the React field.
+- 
+- 💞️ I’m looking to collaborate on js.
 - 📫 How to reach me pihamchi@gmail.com
+- 
 
 <!---
 pihamchi/pihamchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
