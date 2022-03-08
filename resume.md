@@ -11,11 +11,11 @@ Seoul, Korea
 &nbsp;
 # PROFESSSIONAL SKILLS
 - Front-End\
-JavaScript, ES6/ES2015, ReactJS, Redux, RESSTful API, JSP
+JavaScript, ES6/ES2015, ReactJS, Redux, RESTful API, JSP
 - Back-End\
-Expresss.js, RubyOnRails, ElasticSearch, Springboot, CouchDB, PostsgreSQL, Redis
+Express.js, RubyOnRails, ElasticSearch, Springboot, CouchDB, PostsgreSQL, Redis
 - DevOps\
-Git, Amazon EC2 
+Git, Amazon EC2, Docker, Jenkins 
 \
 &nbsp;
 # WORK EXPERIENCE
